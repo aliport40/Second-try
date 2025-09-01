@@ -5,6 +5,7 @@ void main() {
   runApp(const AtomScannerApp());
 }
 
+
 class AtomScannerApp extends StatelessWidget {
   const AtomScannerApp({super.key});
 
