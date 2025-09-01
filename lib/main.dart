@@ -29,9 +29,11 @@ class AtomScannerApp extends StatelessWidget {
   }
 }
 
-/* =========================
+/* 
+=========================
    Data Models (Board / Tests)
-   ========================= */
+   =========================
+*/
 
 class Board {
   final String code;
